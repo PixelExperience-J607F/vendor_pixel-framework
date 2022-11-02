@@ -316,6 +316,8 @@
     <string name="smart_battery_manager_title">自适应功能偏好设置</string>
     <string name="smart_battery_title">自适应电池</string>
     <string name="sound_dashboard_summary">音量、触感反馈、勿扰</string>
+    <string name="status_bar_show_lyric_title">状态栏歌词（需要应用支持哦）</string>
+    <string name="status_bar_show_lyric_summary">感谢Shelling的贡献~</string>
     <string name="storage_manager_indicator">智能存储：^1</string>
     <string name="suw_warranty_description">点按购买地所在国家/地区即可查看此设备的保修信息。&lt;br /&gt;&lt;br /&gt;您也可以在&lt;b&gt;设置 &gt; %s &gt; 有限保修&lt;/b&gt;和 g.co/devicewarranty 上查看保修信息。</string>
     <string name="suw_warranty_language_consistent_description">您也可以在设备“设置”（依次点按&lt;b&gt;设置 &gt; %s &gt; 有限保修&lt;/b&gt;）中和 g.co/devicewarranty 上查看适用于您设备的有限保修信息。</string>
